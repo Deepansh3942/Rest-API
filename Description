@@ -1,0 +1,16 @@
+A REST API (Representational State Transfer Application Programming Interface) is a way to build web services that interact with databases or systems by following REST architectural principles. A typical REST API supports CRUD operations:
+
+1. GET: Retrieve data from the server/database.
+2. POST: Add new data to the server/database.
+3. PATCH: Update specific fields of an existing resource in the server/database.
+4. DELETE: Remove data from the server/database.
+
+REST API Features -
+
+1. Resource-Based URLs: Each resource (e.g., users, products) has its own unique URL.
+2. Stateless: The server does not maintain the client's state; each request is independent.
+3. JSON: Data is typically exchanged in JSON format for easy readability and parsing.
+4. HTTP Methods: HTTP verbs define the operation (GET, POST, PATCH, DELETE).
+5. HTTP Status Codes: Used to indicate the result of the request (e.g., 200 for success, 404 for not found, 500 for server errors).
+
+In this code project the use of MIDDLEWARES are also depicted with examples.
